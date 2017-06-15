@@ -18,4 +18,8 @@ npm run build
 npm run build --report
 ```
 
+# demo
+https://jacky-guo.github.io/vueshoppingcart/
+
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
